@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car Wash</string>
+    <string name="txtTitle">Car Wash Packages</string>
+    <string name="txtDes">Buy 12+ washes for a discount</string>
+    <string name="txtHint">Enter the number of washes</string>
+    <string name="radExt">Exterior Only</string>
+    <string name="radVac">Exterior with Interior Vacuum</string>
+    <string name="btnText">Calculate Package</string>
+</resources>
